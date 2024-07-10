@@ -1,0 +1,18 @@
+﻿using exemploLacoFor;
+//ExemploLacoFor.Main(args);
+//ExemploForeach.Main(args);
+//ExemploForeach2.Main(args);
+//ExemploBreak.Main(args);
+//ExemploBreak2.Main(args);
+//ExemploWhileBreak.Main(args);
+//ExemploWhileContinue.Main(args);
+//ExemploArray.Main(args);
+//ExemploArrayInt.Main(args);
+//ExemploArrayMudandoValores.Main(args);
+//ExemploArrayLength.Main(args);
+//ExemploArraySort.Main(args);
+//ExemploArrayMinMaxSum.Main(args);
+//ExemploMatriz.Main(args);
+//ExemploMudandoElementoMatriz.Main(args);
+//ExemploForeachMatriz.Main(args);
+ExemploGetLength.Main(args);
